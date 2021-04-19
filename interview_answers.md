@@ -13,4 +13,4 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 4. What are the three steps of creating a successful test? What is done in each phase?
    ANSWER:
-   The three steps are Arrange, Action, and Assert. Arrange prepares the testing environment, renders the component or App and calls the elements to be tested. Action simulates a user action. And Assert makes statements about what behavior we expect to happen or what results we expect the user to get/see.
+   The three steps are Arrange, Act, and Assert. Arrange prepares the testing environment, renders the component or App and calls the elements to be tested. Act simulates a user action. And Assert makes statements about what behavior we expect to happen or what results we expect the user to get/see.
